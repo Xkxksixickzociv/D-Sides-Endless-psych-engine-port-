@@ -1,0 +1,32 @@
+{
+	"storyName": "fun",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "endless",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"endless",
+			"icon-tenma",
+			[
+				163,
+				73,
+				164
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}
